@@ -1,4 +1,4 @@
-# Frontend Mentor : Testimonials-Grid-Section
+# Frontend Mentor : Testimonials Grid Section
 
 ⭐완성된 Challenges : https://yuuujin97.github.io/Testimonials-Grid-Section/
 
@@ -24,3 +24,12 @@ font size, padding , margin 등은 스타일에 맞게 정의 해야합니다.
 - CSS custom properties
 - Flexbox
 - CSS Grid
+
+### Screenshot
+
+Desktop ver.
+![Design preview for the Testimonials Grid Section coding challenge](./screenshot/desktop.png)
+
+Mobile ver.
+
+![Design preview for the Testimonials Grid Section coding challenge](./screenshot/mobile.png)
